@@ -1,0 +1,143 @@
+{
+  "currently": [
+    {
+      "text": "Works @ Zenika Ouest",
+      "image": "zenika.png",
+      "title": "Zenika",
+      "link": "https://www.zenika.bzh",
+      "since": "February 2012"
+    },
+    {
+      "text": "Works @ Yves Rocher",
+      "image": "yr.png",
+      "title": "Yves Rocher",
+      "link": "https://www.yves-rocher.fr",
+      "since": "February 2014"
+    }
+  ],
+  "previously": [
+    {
+      "text": "Worked @ Systeme-U",
+      "image": "systeme-u.png",
+      "title": "Systeme-U",
+      "since": "December 2014"
+    },
+    {
+      "text": "Worked @ AES Chenmunex",
+      "image": "aes.png",
+      "title": "AES Chemunex",
+      "link": "https://www.biomerieux.fr",
+      "since": "February 2012 - January 2014"
+    },
+    {
+      "text": "Worked @ European Commission",
+      "image": "ec.png",
+      "title": "European Commision",
+      "link": "http://ec.europa.eu/research/",
+      "since": "November 2007 - November 2011"
+    },
+    {
+      "text": "Works @ GIE Agora",
+      "image": "msa.png",
+      "title": "MSA / GIE Agora",
+      "link": "http://informatique.msa.fr/",
+      "since": "January 2005 - November 2007"
+    }
+  ],
+  "contributions": [
+    {
+      "project": "Crash",
+      "image": "https://avatars1.githubusercontent.com/u/2612888?v=3&s=100",
+      "pull-requests": [
+        {
+          "text": "use JAVA_HOME binaries when available",
+          "link": "https://github.com/crashub/crash/pull/99"
+        }
+      ]
+    },
+    {
+      "project": "Hazelcast",
+      "image": "https://avatars1.githubusercontent.com/u/1453152?v=3&s=100",
+      "pull-requests": [
+        {
+          "text": "Enhance IDE integration",
+          "link": "https://github.com/hazelcast/hazelcast/pull/4839"
+        },
+        {
+          "text": "Fix and enhance the spring integration example",
+          "link": "https://github.com/hazelcast/hazelcast-code-samples/pull/41"
+        }
+      ]
+    },
+    {
+      "project": "Jenkins",
+      "image": "https://avatars2.githubusercontent.com/u/107424?v=3&s=100",
+      "pull-requests": [
+        {
+          "text": "[FIXED JENKINS-19752] write in the correct outputstream",
+          "link": "https://github.com/jenkinsci/jenkins/pull/954"
+        },
+        {
+          "project": "repository-connector-plugin",
+          "text": "[FIXED JENKINS-27678] Fix NullPointerException when nonProxyHost is not set",
+          "link": "https://github.com/jenkinsci/repository-connector-plugin/pull/7"
+        },
+        {
+          "project": "repository-connector-plugin",
+          "text": "From tabs to spaces",
+          "link": "https://github.com/jenkinsci/repository-connector-plugin/pull/5"
+        },
+        {
+          "project": "repository-connector-plugin",
+          "text": "[FIXED JENKINS-25620] [FIXED JENKINS-24781]",
+          "link": "https://github.com/jenkinsci/repository-connector-plugin/pull/4"
+        },
+        {
+          "project": "maven-metadata-plugin",
+          "text": "[FIXED JENKINS-25620] [FIXED JENKINS-24781]",
+          "link": "https://github.com/jenkinsci/maven-metadata-plugin/pull/5"
+        },
+        {
+          "project": "sloccount-plugin",
+          "text": "[FIXED JENKINS-21467]. Tries to revert the file name for the master filesystem",
+          "link": "https://github.com/jenkinsci/sloccount-plugin/pull/27"
+        },
+        {
+          "project": "audit-trail-plugin",
+          "text": "[FIXED JENKINS-19669] add stop, restart, prepare for shutdown as default filter",
+          "link": "https://github.com/jenkinsci/audit-trail-plugin/pull/1"
+        }
+      ]
+    }
+  ],
+  "various": [
+    {
+      "text": "Security matters @ breizhcamp #2015"
+    },
+    {
+      "text": "MongoDB M101J certification"
+    }
+  ],
+  "social": [
+    {
+      "text": "GitHub",
+      "image": "github-light.png",
+      "link": "https://github.com/mathieu-pousse"
+    },
+    {
+      "text": "Linkedin",
+      "image": "linkedin.png",
+      "link": "https://www.linkedin.com/in/mpousse"
+    },
+    {
+      "text": "Twitter",
+      "image": "twitter.png",
+      "link": "https://twitter.com/m_pousse"
+    },
+    {
+      "text": "Stack Overflow",
+      "image": "stackoverflow.png",
+      "link": "http://stackoverflow.com/users/1517816"
+    }
+  ]
+}
